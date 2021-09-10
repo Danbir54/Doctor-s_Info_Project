@@ -1,0 +1,15 @@
+Doctor's Name				Contact 	  Time			Place
+=============				=======		  ==== 			=====
+
+Dr. AFM Nazmul Islam 		[880]-821-716720	08:45 AM	MAG Osmani Medical College
+Dr. Md. Moniruzzaman Ahmed	[880]-821-716720	09:25 AM	MAG Osmani Medical College
+Dr. Shafiqul Bari		[880]-821-716720	10:15 AM	MAG Osmani Medical College
+Dr. Md. Sofiullah		[880]-821-716720	12:00 PM	MAG Osmani Medical College
+Dr. Tufayel Ahmed 	 	[880]-1841-276556	09:15 AM	Dhaka Medical College & Hospital
+Dr. Kamal Mojumdar		[880]-1841-276556	11:00 AM	Dhaka Medical College & Hospital
+Dr. Ahsanullah Shajon		[880]-2-9128835-7	09:00 AM	Popular Diagnostic Center
+Dr. Shamim Ahmed		[880]-961-7444222	05:45 PM	Padma Diagnostic Centre Ltd.
+Dr. Amiruzzaman Sumon		[880]-1977-090988	09:00 AM	Sir Salimullah Medical College
+Dr. A K Azad			[880]-1972-303136	09:30 AM	Bangabandhu Sheikh Mujib Medical University
+Dr. Sharmin Chowdhury Rupa	[880]-1972-224400	09:45 AM	Dhaka Medical College & Hospital
+Dr. Abdullah All Shafi 		[880]-1787-694510	09:00 AM 	Shaheed Suhrawardy Medical College & Hospital
