@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1624469957 source:c:\users\danbir\documents\lab_final\team-g\main.cpp
+	<iostream>
+
+1624470603 source:c:\users\danbir\documents\lab_final\team-g\f1.cpp
+	<iostream>
+	<fstream>
+
