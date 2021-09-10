@@ -1,0 +1,15 @@
+Doctor's Name				Contact 	  Time			Place
+=============				=======		  ==== 			=====
+
+Dr. Muhammad Shahabuddin	[880]-821-726241-50	11:00 AM	MAG Osmani Medical College
+Dr. SM Habibullah		[880]-821-726241-50	11:45 AM	MAG Osmani Medical College
+Dr. Mokhlesur Rahman		[880]-821-726241-50	12:15 PM	MAG Osmani Medical College
+Dr. Nazrul Islam		[880]-9613-78701	03:00 PM	Popular Diagnostic Center Ltd,Dhanmondhi
+Dr. AHM Waliul Islam		[880]-1841-276556	09:15 AM	Apollo Hospitals Dhaka
+Dr. Md. Atahar Ali		[880]-1841-276556	11:00 AM	Apollo Hospitals Dhaka
+Dr. Abu Zafar			[880]-2-9128835-7	09:00 AM	Ibn Sina Diagnostic & Imaging Center
+Dr. Sufia Rahman		[880]-2-9111911		10:45 AM	Uro Bangla Heart Hospital
+Dr. Sayed Azizul Haque		[880]-2-8620353-6	09:00 AM	Sir Salimullah Medical College
+Dr. Harisul Hoque		[880]-1819-238868	09:30 AM	Bangabandhu Sheikh Mujib Medical University
+Dr. A K Miah			[880]-8610793-8		08:45 PM	Labaid Cardiac Hospital
+Dr. Mahbub Ali 			[880]-1787-694510	04:00 PM 	R A Hospital
