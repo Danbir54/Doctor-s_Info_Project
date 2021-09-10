@@ -1,0 +1,15 @@
+Doctor's Name				Contact 	  Time			Place
+=============				=======		  ==== 			=====
+
+Dr. Aminur Rahman 		[880]-1860-356716	11:00 AM	Clinical Neurology Consultation,122,Dhaka
+Dr. Md Amirul Haque		[880]-2-9453440		11:45 AM	Diabetes & Neurology
+Dr. Narayan Chandra Kundu	[880]-2-9669480		10:15 AM	Shaheed Suhrawardy Medical College & Hospital
+Dr. Sirajee Shafiqul Islam	[880]-9613-78701	03:00 PM	National Institute Of Nurosciences & Hospital
+Dr. Mansur Habib		[880]-2-8610793-8	09:15 AM	Dhaka Medical College & Hospital
+Dr. M A Mannan			[880]-2-8114846		11:00 AM	Neurology Foundation Hospital
+Dr. Major. Md. Mahbubur Rahman	[880]-2-9126625-6	09:00 AM	Holy Red Cresecnt Medical College Hospital
+Dr. Syed Wahidur Rahman		[880]-2-9669480 	10:45 AM	Shaheed Suhrawardy Medical College & Hospital
+Dr. Kamrul Alom Shofique	[880]-2-8620353-6	09:00 AM	Sir Salimullah Medical College
+Dr. Anisul Haque		[880]-1819-238868	09:30 AM	Bangabandhu Sheikh Mujib Medical University
+Dr. AKM Anawr Ullah		[880]-8610793-8		08:45 PM	Bangabandhu Sheikh Mujib Medical University
+Dr. Shahan Hossain  		[880]-821-726241-50	10:00 AM 	MAG Osmani Medical College
