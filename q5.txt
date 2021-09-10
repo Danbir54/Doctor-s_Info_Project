@@ -1,0 +1,15 @@
+Doctor's Name				Contact 	  Time			Place
+=============				=======		  ==== 			=====
+
+Dr. Dewan Ali Hassan Chowdhury	[880]-821-726241-50	11:00 AM	MAG Osmani Medical College
+Dr. Kazi Zana Alam		[880]-821-726241-50	11:45 AM	MAG Osmani Medical College
+Dr. Rashidoon Nabi Khan		[880]-821-726241-50	12:15 PM	MAG Osmani Medical College
+Dr. SK Sader Hossain		[880]-9613-78701	03:00 PM	National Institute Of Nurosciences & Hospital
+Dr. Shafiqure Uddin Ahmed	[880]-1841-276556	09:15 AM	Dhaka Medical College & Hospital
+Dr. Md. Raziul Haque		[880]-1841-276556	11:00 AM	Dhaka Medical College & Hospital
+Dr. Mainul Haque Sarkar		[880]-2-9128835-7	09:00 AM	Popular Diagnostic Center
+Dr. Guljarullah Rahman		[880]-2-9111911		10:45 AM	Uro Bangla Heart Hospital
+Dr. Anamul Haque		[880]-2-8620353-6	09:00 AM	Sir Salimullah Medical College
+Dr. Mohammad Hossain		[880]-1819-238868	09:30 AM	Bangabandhu Sheikh Mujib Medical University
+Dr. Abul Khair			[880]-8610793-8		08:45 PM	Bangabandhu Sheikh Mujib Medical University
+Dr. Zillur Rahman 		[880]-1787-694510	04:00 PM 	Shaheed Suhrawardy Medical College & Hospital
